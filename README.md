@@ -234,10 +234,10 @@ developer.** - 📫 The best way to reach me is **to send me an email.**
   <thead>
     <th>
       <a
-        href="https://github-readme-stats.vercel.app/api/top-langs?username=maya-alferez&show_icons=true&locale=en&layout=compact"
+        href="https://github-readme-stats.vercel.app/api/top-langs?username=maya-alferez&layout=compact&theme=tokyonight"
       >
         <img
-          src="https://github-readme-stats.vercel.app/api/top-langs?username=maya-alferez&show_icons=true&locale=en&layout=compact"
+          src="https://github-readme-stats.vercel.app/api/top-langs?username=maya-alferez&layout=compact&theme=tokyonight"
           style="max-width: 100%"
         />
       </a>
