@@ -229,7 +229,7 @@ developer.** - 📫 The best way to reach me is **to send me an email.**
 <h3 align="left">📡Connect with me:</h3>
 <br />
 <ul dir="auto">
-  <li>LinkedIn<a href="www.linkedin.com/in/mayra-alferez">Mayra Alferez</a></li>
+  <li>LinkedIn<a href="www.linkedin.com/in/mayra-alferez"> Mayra Alferez</a></li>
   <li>
     My email:<a href="mailto:m.alferez17@gmail.com"> m.alferez17@gmail.com</a>
   </li>
