@@ -19,19 +19,13 @@ developer.** - 📫 The best way to reach me is **to send me an email.**
 </p>
 <ul dir="auto">
   <li>
-    <a href="https://maya-alferez.github.io/simonGame/"
-      >Simon Game: An application to play with your friends simon game, can you
-      reach level 10? building with JS, HTML, CSS</a
-    >
-  </li>
-  <li>
     <a href=""
       >ToDoList: An application to increaser your productivity building in PHP,
       JS and SCSS</a
     >
   </li>
   <li>
-    <a href="https://maya-alferez.github.io/TinCat/"
+    <a href=""
       >TinCat: A website where your cat finds its lover building in Bootstrap</a
     >
   </li>
@@ -130,16 +124,6 @@ developer.** - 📫 The best way to reach me is **to send me an email.**
         <a
           target="_blank"
           rel="noopener noreferrer nofollow"
-          href="https://camo.githubusercontent.com/268ac512e333b69600eb9773a8f80b7a251f4d6149642a50a551d4798183d621/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3230323332413f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d363144414642"
-        >
-          <img
-            src="https://camo.githubusercontent.com/268ac512e333b69600eb9773a8f80b7a251f4d6149642a50a551d4798183d621/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3230323332413f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d363144414642"
-            style="max-width: 100%"
-          />
-        </a>
-        <a
-          target="_blank"
-          rel="noopener noreferrer nofollow"
           href="https://camo.githubusercontent.com/29026b68c52288230bf32bc2268e47e5c3b81dba23106fb062fcc0541f8e9529/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f416e67756c61722d4444303033313f7374796c653d666f722d7468652d6261646765266c6f676f3d616e67756c6172266c6f676f436f6c6f723d7768697465"
         >
           <img
@@ -205,6 +189,16 @@ developer.** - 📫 The best way to reach me is **to send me an email.**
         <a
           target="_blank"
           rel="noopener noreferrer nofollow"
+          href="https://camo.githubusercontent.com/879423585ed087f3c973857c43ba7e7d84f52c993d2c937055726339fbf921d9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f73746d616e2d4646364333373f7374796c653d666f722d7468652d6261646765266c6f676f3d506f73746d616e266c6f676f436f6c6f723d7768697465"
+        >
+          <img
+            src="https://camo.githubusercontent.com/879423585ed087f3c973857c43ba7e7d84f52c993d2c937055726339fbf921d9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f73746d616e2d4646364333373f7374796c653d666f722d7468652d6261646765266c6f676f3d506f73746d616e266c6f676f436f6c6f723d7768697465"
+            style="max-width: 100%"
+          />
+        </a>
+        <a
+          target="_blank"
+          rel="noopener noreferrer nofollow"
           href="https://camo.githubusercontent.com/a4a4a017a5d519d7c4ce2a3cd3d2194fb7af4b1ca424850784565007c2acc7d8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d7953514c2d3030354338343f7374796c653d666f722d7468652d6261646765266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465"
         >
           <img
@@ -219,7 +213,9 @@ developer.** - 📫 The best way to reach me is **to send me an email.**
 <h3 align="left">📡Connect with me:</h3>
 <br />
 <ul dir="auto">
-  <li>LinkedIn<a href="www.linkedin.com/in/mayra-alferez"> Mayra Alferez</a></li>
+  <li>
+    LinkedIn<a href="www.linkedin.com/in/mayra-alferez"> Mayra Alferez</a>
+  </li>
   <li>
     My email:<a href="mailto:m.alferez17@gmail.com"> m.alferez17@gmail.com</a>
   </li>
