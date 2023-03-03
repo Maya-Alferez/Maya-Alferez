@@ -19,6 +19,12 @@ developer.** - 📫 The best way to reach me is **to send me an email.**
 </p>
 <ul dir="auto">
   <li>
+    <a href="https://maya-alferez.github.io/simonGame/"
+      >Simon Game: An application to play with your friends simon game, can you
+      reach level 10? building with JS, HTML, CSS</a
+    >
+  </li>
+  <li>
     <a href=""
       >ToDoList: An application to increaser your productivity building in PHP,
       JS and SCSS</a
