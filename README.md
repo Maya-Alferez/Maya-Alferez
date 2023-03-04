@@ -17,21 +17,26 @@ developer.** - 📫 The best way to reach me is **to send me an email.**
     about new technologies. Here are some of my projects.</em
   >
 </p>
+
 <ul dir="auto">
   <li>
-    <a href=""
-      >ToDoList: An application to increaser your productivity building in PHP,
-      JS and SCSS</a
-    >
+    <a href="https://maya-alferez.github.io/simonGame/">
+      Simon game: Do you like challenges? In this website you'll find fun with
+      the simon says game. Can you reach level 10?, building in JS, HTML,
+      CSS.</a>
   </li>
   <li>
-    <a href=""
-      >TinCat: A website where your cat finds its lover building in Bootstrap</a
-    >
+    <a href="https://maya-alferez.github.io/TinCat/">
+    TinCat: A website where your cat finds its lover building in Bootstrap.
+    </a>
   </li>
   <li>
-    <a href=""
-      >BlockCoffe: website where you find news blogs and tasting courses
+    <a href="https://github.com/Maya-Alferez/UpTask">
+    ToDoList: An application to increaser your productivity building in PHP, JS and SCSS.</a>
+  </li>
+  <li>
+    <a href="https://blogbuckscoffee.netlify.app/index.html">
+    BlockCoffe: website where you find news blogs and tasting courses.
     </a>
   </li>
 </ul>
