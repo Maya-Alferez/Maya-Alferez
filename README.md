@@ -21,9 +21,7 @@ developer.** - 📫 The best way to reach me is **to send me an email.**
 <ul dir="auto">
   <li>
     <a href="https://maya-alferez.github.io/simonGame/">
-      Simon game: Do you like challenges? In this website you'll find fun with
-      the simon says game. Can you reach level 10?, building in JS, HTML,
-      CSS.</a>
+      Simon game: A website you'll find fun with the simon says game, building in JS, HTML, CSS.</a>
   </li>
   <li>
     <a href="https://maya-alferez.github.io/TinCat/">
