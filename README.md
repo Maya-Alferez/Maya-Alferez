@@ -33,7 +33,7 @@ developer.** - 📫 The best way to reach me is **to send me an email.**
     ToDoList: An application to increaser your productivity building in PHP, JS and SCSS.</a>
   </li>
   <li>
-    <a href="https://blogbuckscoffee.netlify.app/index.html">
+    <a href="https://623023a2f40e7547f36d0e3c--blogbuckscoffee.netlify.app/">
     BlockCoffe: website where you find news blogs and tasting courses.
     </a>
   </li>
