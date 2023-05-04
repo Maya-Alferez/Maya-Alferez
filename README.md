@@ -34,7 +34,7 @@ developer.** - 📫 The best way to reach me is **to send me an email.**
   </li>
   <li>
     <a href="https://willowy-liger-50d219.netlify.app/">
-    appointmentVet: website where you can create appointments for your pet patients.
+    AppointmentVet: website where you can create appointments for your pet patients, building in React.
     </a>
   </li>
 </ul>
